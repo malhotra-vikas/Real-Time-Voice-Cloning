@@ -1,6 +1,7 @@
 # each portion of tensorflow is needed
 # core package is for RNN, cpu and gpu are for specific system speed-ups VIK
 tensorflow==2.15
+tensorflow-gpu==2.12
 tensorflow-hub
 tensorflow-datasets
 umap-learn
