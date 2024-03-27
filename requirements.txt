@@ -7,6 +7,7 @@ umap-learn
 visdom
 librosa==0.10.1
 matplotlib==3.8.3
+matplotlib-venn
 numpy==1.26.4
 scipy==1.12.0
 tqdm
